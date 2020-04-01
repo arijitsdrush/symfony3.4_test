@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/sf/tests" isTestSource="true" packagePrefix="Tests\" />
+      <sourceFolder url="file://$MODULE_DIR$/tests" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/sf/src/AppBundle" isTestSource="false" packagePrefix="AppBundle\" />
+      <sourceFolder url="file://$MODULE_DIR$/spec" isTestSource="true" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/annotations" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/collections" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/common" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/dbal" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/doctrine-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/doctrine-cache-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/inflector" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/instantiator" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/lexer" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/doctrine/orm" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/fig/link-util" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/incenteev/composer-parameter-handler" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/jdorn/sql-formatter" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/monolog/monolog" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/paragonie/random_compat" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/psr/cache" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/psr/container" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/psr/link" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/psr/log" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/psr/simple-cache" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/sensio/distribution-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/sensio/framework-extra-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/sensio/generator-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/sensiolabs/security-checker" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/swiftmailer/swiftmailer" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/monolog-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/phpunit-bridge" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/polyfill-apcu" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/polyfill-ctype" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/polyfill-intl-icu" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/polyfill-mbstring" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/polyfill-php56" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/polyfill-php70" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/polyfill-util" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/swiftmailer-bundle" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/symfony/symfony" />
+      <excludeFolder url="file://$MODULE_DIR$/sf/vendor/twig/twig" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
